@@ -1,2 +1,20 @@
+.holder{
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	height: 100vh;
 
-/* Your CSS Code here. */
+}
+
+.item-1{
+	background-color: green;
+	color: white;
+	width: 100px;
+	height: 100px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
